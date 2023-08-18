@@ -46,7 +46,8 @@ permalink: /leaving-interfax.html
 
 Заполните опросник по ссылке, пожалуйста, чтобы я мог подготовить закупки, если вы планируете прийти.
 
-Ссылка на опросник – https://forms.gle/R88fPaFhT6earVSz7.
+Ссылка на опросник –
+[https://forms.gle/R88fPaFhT6earVSz7](https://forms.gle/R88fPaFhT6earVSz7).
 
 # И главное!
 
